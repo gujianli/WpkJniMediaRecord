@@ -1,0 +1,18 @@
+LIBRARY	"swataw"
+
+EXPORTS
+	swataw_new
+	swataw_delete
+
+	swataw_get_mb
+	swataw_get_type
+	swataw_set_type
+	swataw_get_mode
+	swataw_set_mode
+	
+	swataw_open
+	swataw_close
+	swataw_load
+	swataw_save
+	swataw_type
+	swataw_mode
